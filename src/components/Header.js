@@ -20,7 +20,9 @@ function Header() {
     const classes = useStyles();
     return (
         <div className="header">
-            <img className="headerpic" alt="Pokemon" src={pokemonHeader} />
+            <Link to="/">
+                <img className="headerpic" alt="Pokemon" src={pokemonHeader} />
+            </Link>
             <h1 style={{ color: "#9085c4" }}>Caleb's National Pokédex</h1>
             <Button
                 startIcon={<SearchRounded/>}
