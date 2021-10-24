@@ -90,7 +90,7 @@ function PokemonPage(props) {
                                                 }) : ''}</h1>
                         <div>
                                 {types.map((type) => {
-                                    return <img key={type} src={`./${type}.png`} alt={type} />
+                                    return <img key={type} src={`/${type}.png`} alt={type} />
                                 })}
                         </div>
                         <h3 style={{fontWeight: '500', color: '#b0b3b8', lineHeight: '5px'}}>#{pokemon.id}</h3>
