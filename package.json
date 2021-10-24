@@ -2,6 +2,7 @@
   "name": "mp2",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://calebchow9.github.io/react-pokedex",
   "dependencies": {
     "@emotion/react": "^11.4.1",
     "@emotion/styled": "^11.3.0",

@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { Switch, Route, BrowserRouter as Router } from 'react-router-dom';
+import { Switch, Route, HashRouter as Router } from 'react-router-dom';
 import Home from './HomePage';
 import Gallery from './GalleryPage';
 import Pokemon from './PokemonPage';
