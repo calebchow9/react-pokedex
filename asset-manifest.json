@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.e5d12ff7.chunk.css",
-    "main.js": "/static/js/main.d974fe6b.chunk.js",
-    "main.js.map": "/static/js/main.d974fe6b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7f49785e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7f49785e.js.map",
-    "static/js/2.b1a0d89c.chunk.js": "/static/js/2.b1a0d89c.chunk.js",
-    "static/js/2.b1a0d89c.chunk.js.map": "/static/js/2.b1a0d89c.chunk.js.map",
-    "static/js/3.34db4f53.chunk.js": "/static/js/3.34db4f53.chunk.js",
-    "static/js/3.34db4f53.chunk.js.map": "/static/js/3.34db4f53.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.e5d12ff7.chunk.css.map": "/static/css/main.e5d12ff7.chunk.css.map",
-    "static/js/2.b1a0d89c.chunk.js.LICENSE.txt": "/static/js/2.b1a0d89c.chunk.js.LICENSE.txt",
-    "static/media/pokemon-header.562f1d81.png": "/static/media/pokemon-header.562f1d81.png"
+    "main.css": "/react-pokedex/static/css/main.e5d12ff7.chunk.css",
+    "main.js": "/react-pokedex/static/js/main.d974fe6b.chunk.js",
+    "main.js.map": "/react-pokedex/static/js/main.d974fe6b.chunk.js.map",
+    "runtime-main.js": "/react-pokedex/static/js/runtime-main.b7ce0f34.js",
+    "runtime-main.js.map": "/react-pokedex/static/js/runtime-main.b7ce0f34.js.map",
+    "static/js/2.b1a0d89c.chunk.js": "/react-pokedex/static/js/2.b1a0d89c.chunk.js",
+    "static/js/2.b1a0d89c.chunk.js.map": "/react-pokedex/static/js/2.b1a0d89c.chunk.js.map",
+    "static/js/3.34db4f53.chunk.js": "/react-pokedex/static/js/3.34db4f53.chunk.js",
+    "static/js/3.34db4f53.chunk.js.map": "/react-pokedex/static/js/3.34db4f53.chunk.js.map",
+    "index.html": "/react-pokedex/index.html",
+    "static/css/main.e5d12ff7.chunk.css.map": "/react-pokedex/static/css/main.e5d12ff7.chunk.css.map",
+    "static/js/2.b1a0d89c.chunk.js.LICENSE.txt": "/react-pokedex/static/js/2.b1a0d89c.chunk.js.LICENSE.txt",
+    "static/media/pokemon-header.562f1d81.png": "/react-pokedex/static/media/pokemon-header.562f1d81.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7f49785e.js",
+    "static/js/runtime-main.b7ce0f34.js",
     "static/js/2.b1a0d89c.chunk.js",
     "static/css/main.e5d12ff7.chunk.css",
     "static/js/main.d974fe6b.chunk.js"
