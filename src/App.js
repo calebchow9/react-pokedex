@@ -7,7 +7,7 @@ import Pokemon from './PokemonPage';
 
 function App() {
   return (
-    <Router basename="/react-pokedex">
+    <Router>
       <Switch>
         <Route path="/" exact component={Home} />
         <Route path="/gallery" exact component={Gallery} />
